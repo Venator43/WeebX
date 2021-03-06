@@ -23,7 +23,7 @@ client = vision.ImageAnnotatorClient()
 
 URL = "https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&to=en"
 API_KEY = "Azure Cloud API Key"
-LOCATION = "southeastasia"
+LOCATION = "Azure Location"
 
 class Application():
 	def __init__(self, master):
