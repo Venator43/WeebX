@@ -1,1 +1,3 @@
-# WeebXA Program To Translate Screen With Video Recording
+# WeebX
+
+A Program To Translate Screen With Video Recording
